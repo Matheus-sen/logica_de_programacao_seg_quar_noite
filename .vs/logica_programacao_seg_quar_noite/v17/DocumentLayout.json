@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C77B190F-41CE-414D-B2E0-37E5B7E45E8E}|Ex_04\\Ex_04.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77B190F-41CE-414D-B2E0-37E5B7E45E8E}|Ex_04\\Ex_04.csproj|solutionrelative:ex_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD225CE8-6C3A-43EB-8789-ACCBF57D3A3A}|Ex_08\\Ex_08.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD225CE8-6C3A-43EB-8789-ACCBF57D3A3A}|Ex_08\\Ex_08.csproj|solutionrelative:ex_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55D2E05F-CCD0-434B-A518-CADD2285A66C}|Ex.03\\Ex.03.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55D2E05F-CCD0-434B-A518-CADD2285A66C}|Ex.03\\Ex.03.csproj|solutionrelative:ex.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E09BE7-98AA-4721-8C61-61C6B871CD6C}|Ex_07\\Ex_07.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E09BE7-98AA-4721-8C61-61C6B871CD6C}|Ex_07\\Ex_07.csproj|solutionrelative:ex_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A77A81A9-A8BC-4D9E-AD4B-4176F2D42C54}|ex 01\\ex 01.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A77A81A9-A8BC-4D9E-AD4B-4176F2D42C54}|ex 01\\ex 01.csproj|solutionrelative:ex 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D3C48C4-4CBB-4BD2-8845-B017B7EFFC0C}|Ex_06\\Ex_06.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3C48C4-4CBB-4BD2-8845-B017B7EFFC0C}|Ex_06\\Ex_06.csproj|solutionrelative:ex_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBCA5A11-5C6D-41DA-8CF3-0DA48F95EF50}|Ex.02\\Ex.02.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBCA5A11-5C6D-41DA-8CF3-0DA48F95EF50}|Ex.02\\Ex.02.csproj|solutionrelative:ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D3C48C4-4CBB-4BD2-8845-B017B7EFFC0C}|Ex_06\\Ex_06.csproj|c:\\users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex_06\\ex_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D3C48C4-4CBB-4BD2-8845-B017B7EFFC0C}|Ex_06\\Ex_06.csproj|solutionrelative:ex_06\\ex_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,51 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_04\\Program.cs",
-              "RelativeDocumentMoniker": "Ex_04\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_04\\Program.cs",
-              "RelativeToolTip": "Ex_04\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_08\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_08\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_08\\Program.cs",
+              "RelativeToolTip": "Ex_08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T00:13:25.547Z",
+              "WhenOpened": "2025-01-15T23:03:00.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex.03\\Program.cs",
-              "RelativeDocumentMoniker": "Ex.03\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex.03\\Program.cs",
-              "RelativeToolTip": "Ex.03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_07\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_07\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_07\\Program.cs",
+              "RelativeToolTip": "Ex_07\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T22:06:04.379Z",
+              "WhenOpened": "2025-01-15T22:36:14.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex.02\\Program.cs",
-              "RelativeDocumentMoniker": "Ex.02\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex.02\\Program.cs",
-              "RelativeToolTip": "Ex.02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:47:43.473Z"
+              "Title": "Ex_06",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_06\\Ex_06.csproj",
+              "RelativeDocumentMoniker": "Ex_06\\Ex_06.csproj",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_06\\Ex_06.csproj",
+              "RelativeToolTip": "Ex_06\\Ex_06.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T21:50:46.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex 01\\Program.cs",
-              "RelativeDocumentMoniker": "ex 01\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\ex 01\\Program.cs",
-              "RelativeToolTip": "ex 01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_06\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_06\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\logica_programacao_seg_quar_noite\\Ex_06\\Program.cs",
+              "RelativeToolTip": "Ex_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:42:20.555Z",
+              "WhenOpened": "2025-01-15T21:50:18.509Z",
               "EditorCaption": ""
             }
           ]
