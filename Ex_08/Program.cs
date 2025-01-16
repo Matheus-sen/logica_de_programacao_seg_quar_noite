@@ -2,3 +2,11 @@
 
 Console.WriteLine("Digite um número: ");
 
+int numero = int.Parse(Console.ReadLine());
+int contador = 1;
+
+while (contador <= numero)
+{
+    Console.WriteLine(contador);
+    contador++;
+}
